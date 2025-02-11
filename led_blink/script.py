@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
-LED_PINS = [4, 17]
+LED_PINS = [4, 17, 27, 22, 5, 6, 13]
 BUTTON_PIN = 26
 
 running = True
